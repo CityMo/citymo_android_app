@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CityMo_Android_App</string>
+    <string name="app_name">AndroidApp</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
