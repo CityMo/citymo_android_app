@@ -45,5 +45,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
 
         Log.d("myTag", "This is my message");
-    }
+
+        //TODO ADD CLASS HERE PAU MAERNCO
+    }0
 }
