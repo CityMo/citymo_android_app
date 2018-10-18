@@ -44,8 +44,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
 
-        Log.d("myTag", "This is my message");
+        Log.d("myTag", "Prueba del mapa");
 
-        //TODO ADD CLASS HERE PAU MAERNCO
-    }0
+        //TODO ADD CLASS HERE PAU MARENCO
+    }
 }
