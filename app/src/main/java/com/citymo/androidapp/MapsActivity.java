@@ -36,6 +36,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         Log.d("myTag", "Prueba del mapa");
 
-        //TODO ADD CLASS HERE PAU MARENCO
+        //TODO ADD CLASS HERE PAU MAERNCO
+
     }
 }
