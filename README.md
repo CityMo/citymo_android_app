@@ -4,11 +4,19 @@ CityMo Android App
 
 
 ## Features
-
+[x] Google Maps Marker
+[ ] Google Maps Get Current Location 
+[ ] Google Maps Get Route from 2 points.
 
 ## Status
 
+
+
 ## Getting Started
+
+
+
+
 
 
 ## Maps
