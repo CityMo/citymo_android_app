@@ -47,5 +47,5 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         Log.d("myTag", "This is my message");
 
         //TODO ADD CLASS HERE PAU MAERNCO
-    }0
+    }
 }
