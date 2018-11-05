@@ -3,6 +3,8 @@ package com.citymo.citymo_android_app;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.citymo.androidapp.R;
+
 public class Main_View extends AppCompatActivity {
 
     @Override
